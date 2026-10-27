@@ -18,7 +18,6 @@ export const COUPLE = {
 }
 
 export const MEDIA = {
-  // Background music. Set to null to hide the player.
-  // To enable: drop an .mp3 in /public/audio and set e.g. '/audio/piano.mp3'.
+  // Background music
   music: '/audio/1.mp3',
 }
